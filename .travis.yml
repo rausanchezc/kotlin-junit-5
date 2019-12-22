@@ -9,4 +9,3 @@ before_install:
 
 script:
   - ./gradlew test build
-OME/.gradle/wrapper/
